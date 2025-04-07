@@ -21,9 +21,7 @@ export default function AcceuilSection() {
                         <br />
                         <br />
                         <br />
-                        <br />
-                        <br />
-                       
+                        <br />                    
                         <Link
                             href="/contact"
                             className="inline-flex items-center gap-2 bg-blue-400 text-black px-4 py-2 rounded-md font-medium shadow-md hover:bg-blue-500 transition">
