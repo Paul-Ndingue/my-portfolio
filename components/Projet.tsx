@@ -18,7 +18,7 @@ const projects = [
     description:
       "Application web qui crée un site web intuitif et performant pour la gestion des événements dans une salle de spectacle. Le site permet aux administrateurs de planifier, organiser et gérer les événements, tout en offrant une expérience utilisateur fluide aux visiteurs.",
     image: '/Even.png',
-    tags: ['Next.js', 'Node.js', 'React.Js',"Css"],
+    tags: ['Next.js', 'Node.js', 'React.Js', "Css"],
     repo: 'https://github.com/urngniaba/evenements-salle-spectacle',
     demo: 'https://projet-next-js-web-avance.onrender.com/'
   },
@@ -46,15 +46,20 @@ export default function ProjectsPage() {
   return (
     <section className="bg-gray-100 text-white py-15 px-6 ">
       <div className="max-w-7xl mx-auto">
-      <h1 className="text-3xl font-bold text-blue-900 inline-block border-b-3 border-blue-600 mb-9">
-         Mes Projets
+        <h1 className="text-3xl font-bold text-blue-900 inline-block border-b-3 border-blue-600 mb-9">
+          Mes Projets
         </h1>
+        <p className="mb-10 text-gray-700">
+          Voici une sélection de projets que j&apos;ai réalisés avec passion. Chaque réalisation reflète mes compétences techniques,
+          ma rigueur et ma créativité. Qu&apos;il s&apos;agisse de développement web, d&apos;interfaces utilisateurs ou d&apos;applications fonctionnelles,
+          ces projets témoignent de mon évolution et de mon engagement à toujours apprendre et innover.
+        </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
           {projects.map((project, idx) => (
             <div
               key={idx}
               className="bg-zinc-900 p-4 rounded-xl shadow-lg border border-zinc-800 hover:scale-[1.01] transition" >
-           
+
               <div className="rounded-xl overflow-hidden mb-4">
                 <Image
                   src={project.image}

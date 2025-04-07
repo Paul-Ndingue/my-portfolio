@@ -9,11 +9,10 @@ export default function Contact() {
           Contact
         </h1>
         <p className="mb-10 text-gray-700">
-        Vous souhaitez collaborer avec moi, en savoir plus sur mes projets ou simplement échanger ? N&apos;hésitez 
-        pas à me contacter via le formulaire ci-dessous. Je serai ravi de répondre à vos questions dans les plus brefs délais.
-        Chaque message compte, alors ne soyez pas timide !
-
-</p>
+          Vous souhaitez collaborer avec moi, en savoir plus sur mes projets ou simplement échanger ? N&apos;hésitez
+          pas à me contacter via le formulaire ci-dessous. Je serai ravi de répondre à vos questions dans les plus brefs délais.
+          Chaque message compte, alors ne soyez pas timide !
+        </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {/* Infos contact */}

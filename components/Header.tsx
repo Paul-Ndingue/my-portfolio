@@ -5,7 +5,9 @@ export default function Header() {
     return (
         <header className="w-full p-9  shadow-md bg-blue-300">
             <div className="max-w-7xl mx-auto flex justify-between items-center">
-                <div className="text-3xl font-bold">Paul Petnga Ndingue</div>
+                <div >
+                    <Link href="/" className="text-3xl font-bold">Paul Petnga Ndingue</Link>
+                </div>
                 <nav className="space-x-9 ">
                     <ul className="flex space-x-6 list-none">
                         <li>
