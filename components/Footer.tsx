@@ -1,5 +1,7 @@
 import { Github, Linkedin } from 'lucide-react'
 import Link from 'next/link'
+import { Mail } from 'lucide-react'
+
 
 export default function Footer() {
   return (
@@ -22,10 +24,11 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="hover:text-blue-800"
             aria-label="GitHub" >
-            <Github size={30} className="inline-block mr-2" /> GitHub
+            <Github size={28} className="inline-block mr-2" /> GitHub
           </Link>
 
           <Link href="/contact" className="hover:text-blue-800">
+          <Mail size={30}  className="inline-block mr-2"/>
             Contact
           </Link>
         </div>
