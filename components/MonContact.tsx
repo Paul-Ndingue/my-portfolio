@@ -9,8 +9,11 @@ export default function Contact() {
           Contact
         </h1>
         <p className="mb-10 text-gray-700">
-          Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.
-        </p>
+        Vous souhaitez collaborer avec moi, en savoir plus sur mes projets ou simplement échanger ? N&apos;hésitez 
+        pas à me contacter via le formulaire ci-dessous. Je serai ravi de répondre à vos questions dans les plus brefs délais.
+        Chaque message compte, alors ne soyez pas timide !
+
+</p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {/* Infos contact */}
