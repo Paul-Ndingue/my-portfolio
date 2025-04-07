@@ -13,8 +13,8 @@ export default function AcceuilSection() {
                         je suis <span className="text-blue-400">Paul Petnga Ndingue</span>
                     </h1>
                     <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-                        Deux fois diplomé, l'un en <span className="text-2xl font-bold">Programmation Informatique </span>
-                        et en <span className="text-2xl font-bold">Soutien Technique Informatique</span> à La Cité collégiale je recherche un stage professionnel pour mieux démarrer une carrière dans le domaine de l'IT
+                        Deux fois diplomé, un en <span className="text-2xl font-bold">Programmation Informatique </span>
+                        et en <span className="text-2xl font-bold">Soutien Technique Informatique</span> à La Cité collégiale je recherche un stage professionnel pour mieux démarrer une carrière dans le domaine de IT
                         <br />
                         avec de multiples projet qui ont boostés mon experience, utilisant React<br />
                         et Node.js. Contactez-moi si vous avez besoin de mes services.
