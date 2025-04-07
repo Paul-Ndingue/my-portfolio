@@ -11,7 +11,7 @@ const projects = [
     image: '/portfolio.png',
     tags: ['NextJs', 'TailwindCSS'],
     repo: 'https://github.com/Paul-Ndingue/My-Portfolio/tree/main/Desktop/Portfolio/my-portfolio',
-    // demo: 'https://domotihome.vercel.app'
+    demo: 'https://my-portfolio-ten-mauve-80.vercel.app/'
   },
   {
     title: 'Even Room',
