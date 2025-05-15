@@ -37,7 +37,7 @@ export default function AproposSection() {
                             en conception d&apos;applications et automatisation.
                         </p>
                         <ul className="mt-2 text-sm text-gray-600 space-y-1">
-                            <li>📍 Gatineau, Canada</li>
+                            <li>📍 Canada</li>
                             <li>📞 +1 (819) 319-1920</li>
                             <li>📧 paulpetnga023@gmail.com</li>
                         </ul>
@@ -96,21 +96,41 @@ export default function AproposSection() {
 
                         <div className="border-l-4 pl-4 border-blue-400 space-y-6">
                             <div>
-                                <p className="font-semibold">Développeur Fullstack</p>
-                                <p className="text-sm italic text-gray-600">Clinique ABC — 2023 - présent</p>
+                                <p className="font-semibold">Analyse d&apos;Affaire/ Spécialiste OT Junior</p>
+                                <p className="text-sm italic text-gray-600">PureLogic — 2025 </p>
                                 <ul className="list-disc pl-5 text-sm mt-1 text-gray-700 space-y-1">
-                                    <li>Création d&apos;une plateforme de gestion des rendez-vous et horaires médicaux.</li>
-                                    <li>Stack : React, Next.js, Tailwind, Node.js, PostgreSQL.</li>
+                                    <li>Collaborer à la gestion du changement et soutenir les utilisateurs lors de la mise en œuvre des solutions.</li>
+                                    <li>Mettre à jour ou valider la documentation des processus.</li>
+                                    <li>Analyser les solutions possibles et formuler des recommandations aux responsables.</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <p className="font-semibold">Stagiaire en support technique</p>
+                                <p className="text-sm italic text-gray-600">Collège la Cité — 2023</p>
+                                <ul className="list-disc pl-5 text-sm mt-1 text-gray-700 space-y-1">
+                                    <li>Diagnostiqué et réparé des postes de travail, imprimantes, et équipements réseau.</li>
+                                    <li>Géré les tickets de support avec un taux de résolution de 90 % en moins de 48h.</li>
+                                    <li>Mis à jour et configuré des logiciels et systèmes d&apos;exploitation Windows.</li>
+
                                 </ul>
                             </div>
 
                             <div>
-                                <p className="font-semibold"> Stagiaire Analyse de données Informatique</p>
-                                <p className="text-sm italic text-gray-600">NEPTUNE OIL SA Cameroun — 2022, 6mois </p>
+                                <p className="font-semibold">Analyse de données Informatique Junior</p>
+                                <p className="text-sm italic text-gray-600">NEPTUNE OIL SA Cameroun — 2022 - 2023 </p>
                                 <ul className="list-disc pl-5 text-sm mt-1 text-gray-700 space-y-1">
                                     <li>Participation active à la collecte, la transformation et l&apos;organisation des données issues de bases de données pour les rendre exploitables.</li>
                                     <li>Contribution à des analyses descriptives et à des projets de modélisation prédictive aux côtés des analystes.</li>
                                     <li>Implication dans des réunions avec les parties prenantes et documentation rigoureuse des processus d&apos;analyse de données.</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <p className="font-semibold">Technicien Support IT</p>
+                                <p className="text-sm italic text-gray-600">Orange Cameroun — 2020 - 2021 </p>
+                                <ul className="list-disc pl-5 text-sm mt-1 text-gray-700 space-y-1">
+                                    <li>Support aux utilisateurs : Fournir une assistance de premier niveau par téléphone, courriel ou système de tickets. Accompagner les utilisateurs dans la résolution de problèmes liés aux logiciels, au matériel ou aux périphériques.</li>
+                                    <li>Installation et configuration : Installer, configurer et maintenir les postes de travail, logiciels, imprimantes et autres équipements. S&apos;assurer de la conformité aux standards établis.</li>
+                                    <li>Gestion des demandes : Suivre et documenter les interventions via un système de gestion des tickets (ex. : Jira, ServiceNow). Veiller au respect des délais et à la qualité du service..</li>
                                 </ul>
                             </div>
                         </div>

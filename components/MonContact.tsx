@@ -23,7 +23,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="font-semibold">Location:</h3>
-                <p>Ottawa/Gatineau, Canada</p>
+                <p> Canada</p>
               </div>
             </div>
 
