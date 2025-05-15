@@ -70,9 +70,9 @@ export default function TechnicalSkill() {
   return (
     <section className="bg-gray-100 py-20 px-6">
       <div className="max-w-7xl mx-auto text-center">
-        <h2 className="text-3xl font-bold text-blue-900 mb-4">Technical Skills</h2>
+        <h2 className="text-3xl font-bold text-blue-900 mb-4">Compétences Techniques</h2>
         <p className="text-gray-600 mb-12">
-          Hover on each card to see the related skills.
+        Passez la souris sur chaque carte pour voir les compétences associées.
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
